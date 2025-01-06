@@ -58,8 +58,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td class="text-end">Sở thích</td>
-                    <asp:CheckBoxList ID="cklSoThich" runat="server" CssClass="form-control"></asp:CheckBoxList>
+                    <td class="text-end">Sở thích <asp:CheckBoxList ID="cklSoThich" runat="server" CssClass="form-check"></asp:CheckBoxList></td>
                 </tr>
                 <tr>
                     <td class="auto-style2">&nbsp;</td>
@@ -69,7 +68,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td colspan="2" class="text-center h4 alert alert-info">KẾT QUẢ THÔNG TIN</td>
+                    <td colspan="2" class="text-center h3 alert alert-info">KẾT QUẢ THÔNG TIN</td>
                 </tr>
                 <tr>
                     <td colspan="2">
