@@ -58,8 +58,8 @@
                <tr class="text-center">
                    <td colspan="2"><asp:Button ID="btnDonDatHang" runat="server" Text="In đơn đặt hàng" Width="120px" OnClick="btnDonDatHang_Click"/></td>
                </tr>
-               <asp:Label CssClass="ketqua" ID="lblKetQua" runat="server" Text="Label"></asp:Label>
            </table>
+            <asp:Label CssClass="ketqua" ID="lblKetQua" runat="server" Text="Label"></asp:Label>
         </div>
     </form>
 </body>
